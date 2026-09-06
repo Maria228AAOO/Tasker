@@ -1,0 +1,15 @@
+D:\Projects\Tasker\Tasker\bin\Debug\Tasker.exe.config
+D:\Projects\Tasker\Tasker\bin\Debug\Tasker.exe
+D:\Projects\Tasker\Tasker\bin\Debug\Tasker.pdb
+D:\Projects\Tasker\Tasker\obj\Debug\Tasker.csproj.AssemblyReference.cache
+D:\Projects\Tasker\Tasker\obj\Debug\Tasker.csproj.CoreCompileInputs.cache
+D:\Projects\Tasker\Tasker\obj\Debug\Tasker.exe
+D:\Projects\Tasker\Tasker\obj\Debug\Tasker.pdb
+D:\Projects\Tasker\Tasker\obj\Debug\Tasker.exe.config
+C:\Users\user\Downloads\ghf\Tasker-main\bin\Debug\Tasker.exe.config
+C:\Users\user\Downloads\ghf\Tasker-main\bin\Debug\Tasker.exe
+C:\Users\user\Downloads\ghf\Tasker-main\bin\Debug\Tasker.pdb
+C:\Users\user\Downloads\ghf\Tasker-main\obj\Debug\Tasker.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\ghf\Tasker-main\obj\Debug\Tasker.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\ghf\Tasker-main\obj\Debug\Tasker.exe
+C:\Users\user\Downloads\ghf\Tasker-main\obj\Debug\Tasker.pdb
